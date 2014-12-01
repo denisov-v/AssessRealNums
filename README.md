@@ -1,4 +1,4 @@
 AssessRealNums
 ==============
 
-Results of assessing binary representations of real numbers with NIST Statistical Test Suite for grauate qualification work
+Results of assessing binary representations of real numbers with NIST Statistical Test Suite for graduate qualification work
